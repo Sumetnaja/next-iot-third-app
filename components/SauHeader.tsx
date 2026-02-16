@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function SauHeader() {
     return (
-        <div className="bg-blue-600 text-center p-4">
+        <div className="bg-violet-600 text-center p-4">
             <Link href="/body/calbmi" className="text-white hover:text-cyan-100 mx-3">
              BMI Calculator
            </Link>
